@@ -1,6 +1,6 @@
 <h1 align="center">
 Marvelous MLOps Free End-to-end MLOps with Databricks Course
-# Test CI/CD MLOpshehe
+# Test CI/CD MLOpsheheeee
 ## Set up your environment
 In this course, we use Databricks serverless [version 3](https://docs.databricks.com/aws/en/release-notes/serverless/environment-version/three)
 
