@@ -19,7 +19,8 @@ def adjust_predictions(predictions: np.ndarray | list[int]) -> dict[str, list[st
 class MarvelModelWrapper(mlflow.pyfunc.PythonModel):
     """Wrapper for LightGBM model."""
 
-    def load_context(self, context):
+    def load_context(self, context: dict) -> None:
+        """Load the model context."""
         import os
 
         # Chuẩn hóa đường dẫn từ Windows sang Linux
