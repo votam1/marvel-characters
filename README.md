@@ -3,7 +3,7 @@ Marvelous MLOps Free End-to-end MLOps with Databricks Course
 # test CI/CD
 ## Set up your environmenttttttt
 In this course, we use Databricks serverless [version 3](https://docs.databricks.com/aws/en/release-notes/serverless/environment-version/three)
-
+# test CI/CD
 In our examples, we use UV. Check out the documentation on how to install it: https://docs.astral.sh/uv/getting-started/installation/
 
 To create a new environment and create a lockfile, run:
